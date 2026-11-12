@@ -1,0 +1,235 @@
+transaction_id,invoice_id,project_id,transaction_date,supplier,description,category,amount,currency,status,document_reference
+TXN-2026-0001,INV-1000,MK-001,2026-04-01,East Africa Plant Hire (synthetic),Boundary marking and pegging,Land Preparation,14448.75,EUR,Verified,SYN-DOC-00001
+TXN-2026-0002,INV-1007,MK-001,2026-04-02,Riverline Field Lodge (synthetic),Office rent and utilities,Administration,7685000.0,UGX,Verified,SYN-DOC-00002
+TXN-2026-0003,INV-1017,MK-001,2026-04-02,Yumbe Hardware Supplies (synthetic),Nursery shade netting replacement,Nursery Operations,26175000.0,UGX,Verified,SYN-DOC-00003
+TXN-2026-0004,INV-1022,MK-001,2026-04-02,Field Crew Payroll — Site Office (synthetic),Field crew wages,Personnel and Labour,143728000.0,UGX,Verified,SYN-DOC-00004
+TXN-2026-0005,INV-1028,MK-001,2026-04-04,East Africa Plant Hire (synthetic),Equipment hire — water bowser,Equipment and Machinery,9357.83,EUR,Verified,SYN-DOC-00005
+TXN-2026-0006,INV-1037,MK-001,2026-04-05,Riverline Field Lodge (synthetic),Site supervisor salaries,Personnel and Labour,36884000.0,UGX,Verified,SYN-DOC-00006
+TXN-2026-0007,INV-1047,MK-001,2026-04-05,Kei Highlands Nurseries Ltd (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,5767000.0,UGX,Verified,SYN-DOC-00007
+TXN-2026-0008,INV-1050,MK-001,2026-04-06,Community Liaison Programme Fund (synthetic),Intercropping inputs for farmer groups,Community Development,1435000.0,UGX,Verified,SYN-DOC-00008
+TXN-2026-0009,INV-1056,MK-001,2026-04-06,Northern Fuel Depot (synthetic),Water pump maintenance,Equipment and Machinery,27607000.0,UGX,Verified,SYN-DOC-00009
+TXN-2026-0010,INV-1066,MK-001,2026-04-08,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,9825000.0,UGX,Verified,SYN-DOC-00010
+TXN-2026-0011,INV-1071,MK-001,2026-04-09,GreenRoots Survey & Mapping (synthetic),Monitoring activities — survival counts,Monitoring and Verification,2647.59,EUR,Verified,SYN-DOC-00011
+TXN-2026-0012,INV-1080,MK-001,2026-04-10,Riverline Field Lodge (synthetic),Bank charges and professional fees,Administration,27468000.0,UGX,Verified,SYN-DOC-00012
+TXN-2026-0013,INV-1085,MK-001,2026-04-10,Yumbe Hardware Supplies (synthetic),Miscellaneous site consumables,Other Project Costs,10242000.0,UGX,Verified,SYN-DOC-00013
+TXN-2026-0014,INV-1091,MK-001,2026-04-12,GreenRoots Survey & Mapping (synthetic),Monitoring activities — survival counts,Monitoring and Verification,669.27,EUR,Verified,SYN-DOC-00014
+TXN-2026-0015,INV-1102,MK-001,2026-04-17,Field Crew Payroll — Site Office (synthetic),Weeding and maintenance of planted blocks,Plantation and Restoration,43251000.0,UGX,Verified,SYN-DOC-00015
+TXN-2026-0016,INV-1108,MK-001,2026-04-18,Community Liaison Programme Fund (synthetic),Community liaison officer stipends,Community Development,8999000.0,UGX,Verified,SYN-DOC-00016
+TXN-2026-0017,INV-1115,MK-001,2026-04-20,Yumbe Hardware Supplies (synthetic),Equipment hire — water bowser,Equipment and Machinery,36336000.0,UGX,Verified,SYN-DOC-00017
+TXN-2026-0018,INV-1122,MK-001,2026-04-22,Arua Haulage Services (synthetic),Vehicle fuel — field operations,Transport and Logistics,36654000.0,UGX,Verified,SYN-DOC-00018
+TXN-2026-0019,INV-1126,MK-001,2026-04-23,East Africa Plant Hire (synthetic),Firebreak construction,Land Preparation,30753.64,EUR,Verified,SYN-DOC-00019
+TXN-2026-0020,INV-1133,MK-001,2026-04-23,Kei Highlands Nurseries Ltd (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,129017000.0,UGX,Verified,SYN-DOC-00020
+TXN-2026-0021,INV-1141,MK-001,2026-04-24,Field Crew Payroll — Site Office (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,41096000.0,UGX,Verified,SYN-DOC-00021
+TXN-2026-0022,INV-1148,MK-001,2026-04-25,Koboko Agro Inputs (synthetic),Nursery materials — potting bags and substrate,Nursery Operations,31978000.0,UGX,Verified,SYN-DOC-00022
+TXN-2026-0023,INV-1156,MK-001,2026-04-25,Field Crew Payroll — Site Office (synthetic),Weeding and maintenance of planted blocks,Plantation and Restoration,42538000.0,UGX,Verified,SYN-DOC-00023
+TXN-2026-0024,INV-1166,MK-001,2026-04-25,Nile Basin Logistics Ltd (synthetic),Vehicle servicing and tyres,Transport and Logistics,7942.45,EUR,Verified,SYN-DOC-00024
+TXN-2026-0025,INV-1172,MK-001,2026-04-27,Kei Highlands Nurseries Ltd (synthetic),Nursery shade netting replacement,Nursery Operations,5341000.0,UGX,Verified,SYN-DOC-00025
+TXN-2026-0026,INV-1176,MK-001,2026-04-28,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,5315000.0,UGX,Verified,SYN-DOC-00026
+TXN-2026-0027,INV-1182,MK-001,2026-04-28,Northern Fuel Depot (synthetic),Equipment hire — water bowser,Equipment and Machinery,52224000.0,UGX,Verified,SYN-DOC-00027
+TXN-2026-0028,INV-1190,MK-001,2026-04-28,Koboko Agro Inputs (synthetic),Nursery attendants' monthly allowance,Nursery Operations,18481000.0,UGX,Verified,SYN-DOC-00028
+TXN-2026-0029,INV-1199,MK-001,2026-05-01,Community Liaison Programme Fund (synthetic),Intercropping inputs for farmer groups,Community Development,18355000.0,UGX,Verified,SYN-DOC-00029
+TXN-2026-0030,INV-1208,MK-001,2026-05-01,Field Crew Payroll — Site Office (synthetic),Field staff overtime and allowances,Personnel and Labour,47120000.0,UGX,Verified,SYN-DOC-00030
+TXN-2026-0031,INV-1210,MK-001,2026-05-03,Yumbe Hardware Supplies (synthetic),Brush cutters and spares,Equipment and Machinery,36397000.0,UGX,Verified,SYN-DOC-00031
+TXN-2026-0032,INV-1220,MK-001,2026-05-04,Contract Planting Team A (synthetic),Labour for land preparation — clearing and pitting,Land Preparation,80079000.0,UGX,Verified,SYN-DOC-00032
+TXN-2026-0033,INV-1224,MK-001,2026-05-04,Field Crew Payroll — Site Office (synthetic),Ripping and site preparation (hired tractor),Land Preparation,34918000.0,UGX,Verified,SYN-DOC-00033
+TXN-2026-0034,INV-1234,MK-001,2026-05-04,Yumbe Hardware Supplies (synthetic),Nursery shade netting replacement,Nursery Operations,54733000.0,UGX,Verified,SYN-DOC-00034
+TXN-2026-0035,INV-1240,MK-001,2026-05-05,GreenRoots Survey & Mapping (synthetic),Carbon project documentation support,Monitoring and Verification,682.83,EUR,Verified,SYN-DOC-00035
+TXN-2026-0036,INV-1249,MK-001,2026-05-05,Koboko Agro Inputs (synthetic),Nursery materials — potting bags and substrate,Nursery Operations,22171000.0,UGX,Verified,SYN-DOC-00036
+TXN-2026-0037,INV-1253,MK-001,2026-05-06,Field Crew Payroll — Site Office (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,7578000.0,UGX,Verified,SYN-DOC-00037
+TXN-2026-0038,INV-1261,MK-001,2026-05-07,Contract Planting Team A (synthetic),Planting labour — rainy season campaign,Plantation and Restoration,48195000.0,UGX,Verified,SYN-DOC-00038
+TXN-2026-0039,INV-1270,MK-001,2026-05-09,West Nile Seed & Seedling Co. (synthetic),Native species seedlings for assisted natural regeneration,Seedling Procurement,74857000.0,UGX,Verified,SYN-DOC-00039
+TXN-2026-0040,INV-1274,MK-001,2026-05-11,East Africa Plant Hire (synthetic),Boundary marking and pegging,Land Preparation,1724.97,EUR,Verified,SYN-DOC-00040
+TXN-2026-0041,INV-1282,MK-001,2026-05-11,GreenRoots Survey & Mapping (synthetic),Biomass plot measurement,Monitoring and Verification,648.28,EUR,Verified,SYN-DOC-00041
+TXN-2026-0042,INV-1291,MK-001,2026-05-12,East Africa Plant Hire (synthetic),Brush cutters and spares,Equipment and Machinery,2584.92,EUR,Verified,SYN-DOC-00042
+TXN-2026-0043,INV-1298,MK-001,2026-05-12,Nile Basin Logistics Ltd (synthetic),Vehicle servicing and tyres,Transport and Logistics,6585.61,EUR,Verified,SYN-DOC-00043
+TXN-2026-0044,INV-1302,MK-001,2026-05-16,Terra Carbon Advisory (synthetic),Biomass plot measurement,Monitoring and Verification,85.8,EUR,Verified,
+TXN-2026-0045,INV-1308,MK-001,2026-05-16,Yumbe Hardware Supplies (synthetic),Safety equipment and first aid,Other Project Costs,9596000.0,UGX,Verified,SYN-DOC-00045
+TXN-2026-0046,INV-1320,MK-001,2026-05-17,GreenRoots Survey & Mapping (synthetic),Monitoring activities — survival counts,Monitoring and Verification,1741.34,EUR,Verified,SYN-DOC-00046
+TXN-2026-0047,INV-1324,MK-001,2026-05-17,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,18915000.0,UGX,Verified,SYN-DOC-00047
+TXN-2026-0048,INV-1330,MK-001,2026-05-18,Community Liaison Programme Fund (synthetic),Community liaison officer stipends,Community Development,2370000.0,UGX,Verified,SYN-DOC-00048
+TXN-2026-0049,INV-1338,MK-001,2026-05-18,East Africa Plant Hire (synthetic),Plantation equipment — hand tools,Equipment and Machinery,4532.42,EUR,Verified,SYN-DOC-00049
+TXN-2026-0050,INV-1344,MK-001,2026-05-19,East Africa Plant Hire (synthetic),Plantation equipment — hand tools,Equipment and Machinery,2511.15,EUR,Verified,SYN-DOC-00050
+TXN-2026-0051,INV-1354,MK-001,2026-05-21,East Africa Plant Hire (synthetic),Ripping and site preparation (hired tractor),Land Preparation,16302.81,EUR,Verified,SYN-DOC-00051
+TXN-2026-0052,INV-1362,MK-001,2026-05-21,Riverline Field Lodge (synthetic),Field staff overtime and allowances,Personnel and Labour,53498000.0,UGX,Verified,SYN-DOC-00052
+TXN-2026-0053,INV-1369,MK-001,2026-05-22,Riverline Field Lodge (synthetic),Site supervisor salaries,Personnel and Labour,46606000.0,UGX,Verified,SYN-DOC-00053
+TXN-2026-0054,INV-1374,MK-001,2026-05-23,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,4435000.0,UGX,Verified,SYN-DOC-00054
+TXN-2026-0055,INV-1381,MK-001,2026-05-24,Field Crew Payroll — Site Office (synthetic),Site supervisor salaries,Personnel and Labour,51972000.0,UGX,Verified,SYN-DOC-00055
+TXN-2026-0056,INV-1389,MK-001,2026-05-24,Contract Planting Team A (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,134320000.0,UGX,Verified,SYN-DOC-00056
+TXN-2026-0057,INV-1396,MK-001,2026-05-24,Northern Fuel Depot (synthetic),Truck hire for materials,Transport and Logistics,6931000.0,UGX,Verified,SYN-DOC-00057
+TXN-2026-0058,INV-1401,MK-001,2026-05-26,Yumbe Hardware Supplies (synthetic),Nursery attendants' monthly allowance,Nursery Operations,9877000.0,UGX,Verified,SYN-DOC-00058
+TXN-2026-0059,INV-1407,MK-001,2026-05-26,Nile Basin Logistics Ltd (synthetic),Truck hire for materials,Transport and Logistics,5575.4,EUR,Verified,SYN-DOC-00059
+TXN-2026-0060,INV-1413,MK-001,2026-05-27,Riverline Field Lodge (synthetic),Field accommodation,Administration,30775000.0,UGX,Verified,SYN-DOC-00060
+TXN-2026-0061,INV-1421,MK-001,2026-05-29,West Nile Seed & Seedling Co. (synthetic),Teak seedlings — plantation block order,Seedling Procurement,65879000.0,UGX,Verified,SYN-DOC-00061
+TXN-2026-0062,INV-1427,MK-001,2026-05-30,Kampala Office Services (synthetic),Bank charges and professional fees,Administration,1004.06,EUR,Verified,SYN-DOC-00062
+TXN-2026-0063,INV-1434,MK-001,2026-06-02,Nile Basin Logistics Ltd (synthetic),Vehicle fuel — field operations,Transport and Logistics,5386.46,EUR,Verified,SYN-DOC-00063
+TXN-2026-0064,INV-1446,MK-001,2026-06-03,Community Liaison Programme Fund (synthetic),Community liaison officer stipends,Community Development,3898000.0,UGX,Verified,SYN-DOC-00064
+TXN-2026-0065,INV-1453,MK-001,2026-06-03,Field Crew Payroll — Site Office (synthetic),Firebreak construction,Land Preparation,47601000.0,UGX,Verified,SYN-DOC-00065
+TXN-2026-0066,INV-1460,MK-001,2026-06-04,Yumbe Hardware Supplies (synthetic),Plantation equipment — hand tools,Equipment and Machinery,37314000.0,UGX,Verified,SYN-DOC-00066
+TXN-2026-0067,INV-1466,MK-001,2026-06-05,Riverline Field Lodge (synthetic),Casual labour — seasonal peak,Personnel and Labour,58236000.0,UGX,Verified,SYN-DOC-00067
+TXN-2026-0068,INV-1474,MK-001,2026-06-07,Yumbe Hardware Supplies (synthetic),Equipment hire — water bowser,Equipment and Machinery,20768000.0,UGX,Verified,SYN-DOC-00068
+TXN-2026-0069,INV-1479,MK-001,2026-06-07,Contract Planting Team A (synthetic),Weeding and maintenance of planted blocks,Plantation and Restoration,24528000.0,UGX,Verified,SYN-DOC-00069
+TXN-2026-0070,INV-1486,MK-001,2026-06-07,Kei Highlands Nurseries Ltd (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,27931000.0,UGX,Verified,SYN-DOC-00070
+TXN-2026-0071,INV-1495,MK-001,2026-06-08,Field Crew Payroll — Site Office (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,43457000.0,UGX,Verified,SYN-DOC-00071
+TXN-2026-0072,INV-1497,MK-001,2026-06-11,Community Liaison Programme Fund (synthetic),Intercropping inputs for farmer groups,Community Development,29729000.0,UGX,Queried,SYN-DOC-00072
+TXN-2026-0073,INV-1505,MK-001,2026-06-13,Riverline Field Lodge (synthetic),Bank charges and professional fees,Administration,10677000.0,UGX,Verified,SYN-DOC-00073
+TXN-2026-0074,INV-1514,MK-001,2026-06-13,Kampala Office Services (synthetic),Field accommodation,Administration,4514.4,EUR,Verified,SYN-DOC-00074
+TXN-2026-0075,INV-1522,MK-001,2026-06-13,Kei Highlands Nurseries Ltd (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,67026000.0,UGX,Verified,SYN-DOC-00075
+TXN-2026-0076,INV-1529,MK-001,2026-06-14,Terra Carbon Advisory (synthetic),Biomass plot measurement,Monitoring and Verification,302.35,EUR,Verified,SYN-DOC-00076
+TXN-2026-0077,INV-1537,MK-001,2026-06-14,Riverline Field Lodge (synthetic),Site supervisor salaries,Personnel and Labour,89823000.0,UGX,Verified,SYN-DOC-00077
+TXN-2026-0078,INV-1543,MK-001,2026-06-14,Field Crew Payroll — Site Office (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,24154000.0,UGX,Verified,SYN-DOC-00078
+TXN-2026-0079,INV-1550,MK-001,2026-06-15,Riverline Field Lodge (synthetic),Field accommodation,Administration,3682000.0,UGX,Verified,SYN-DOC-00079
+TXN-2026-0080,INV-1555,MK-001,2026-06-15,Northern Fuel Depot (synthetic),Equipment hire — water bowser,Equipment and Machinery,4192000.0,UGX,Verified,SYN-DOC-00080
+TXN-2026-0081,INV-1564,MK-001,2026-06-15,Northern Fuel Depot (synthetic),Vehicle fuel — field operations,Transport and Logistics,13304000.0,UGX,Verified,SYN-DOC-00081
+TXN-2026-0082,INV-1567,MK-001,2026-06-16,East Africa Plant Hire (synthetic),Boundary marking and pegging,Land Preparation,12079.56,EUR,Verified,SYN-DOC-00082
+TXN-2026-0083,INV-1576,MK-001,2026-06-16,Field Crew Payroll — Site Office (synthetic),Planting labour — rainy season campaign,Plantation and Restoration,116124000.0,UGX,Verified,SYN-DOC-00083
+TXN-2026-0084,INV-1585,MK-001,2026-06-17,Arua Haulage Services (synthetic),Vehicle fuel — field operations,Transport and Logistics,31785000.0,UGX,Verified,SYN-DOC-00084
+TXN-2026-0085,INV-1590,MK-001,2026-06-19,Koboko Agro Inputs (synthetic),Nursery shade netting replacement,Nursery Operations,27735000.0,UGX,Verified,SYN-DOC-00085
+TXN-2026-0086,INV-1595,MK-001,2026-06-20,Kampala Office Services (synthetic),Bank charges and professional fees,Administration,732.94,EUR,Verified,SYN-DOC-00086
+TXN-2026-0234,CN-0032,MK-001,2026-06-20,West Nile Seed & Seedling Co. (synthetic),Credit note — seedlings rejected on delivery,Seedling Procurement,-9840000.0,UGX,Verified,SYN-DOC-00234
+TXN-2026-0087,INV-1602,MK-001,2026-06-22,GreenRoots Survey & Mapping (synthetic),Carbon project documentation support,Monitoring and Verification,1922.98,EUR,Verified,SYN-DOC-00087
+TXN-2026-0088,INV-1610,MK-001,2026-06-22,Field Crew Payroll — Site Office (synthetic),Field staff overtime and allowances,Personnel and Labour,2898000.0,UGX,Verified,SYN-DOC-00088
+TXN-2026-0089,INV-1621,MK-001,2026-06-24,East Africa Plant Hire (synthetic),Ripping and site preparation (hired tractor),Land Preparation,6571.28,EUR,Verified,SYN-DOC-00089
+TXN-2026-0090,INV-1625,MK-001,2026-06-24,Koboko Agro Inputs (synthetic),Nursery shade netting replacement,Nursery Operations,28694000.0,UGX,Verified,SYN-DOC-00090
+TXN-2026-0091,INV-1634,MK-001,2026-06-26,East Africa Plant Hire (synthetic),Boundary marking and pegging,Land Preparation,6532.23,EUR,Verified,SYN-DOC-00091
+TXN-2026-0092,INV-1637,MK-001,2026-06-27,Terra Carbon Advisory (synthetic),Carbon project documentation support,Monitoring and Verification,1219.17,EUR,Verified,SYN-DOC-00092
+TXN-2026-0093,INV-1649,MK-001,2026-06-27,West Nile Seed & Seedling Co. (synthetic),Teak seedlings — plantation block order,Seedling Procurement,25775000.0,UGX,Verified,SYN-DOC-00093
+TXN-2026-0094,INV-1651,MK-001,2026-06-28,Nile Basin Logistics Ltd (synthetic),Vehicle servicing and tyres,Transport and Logistics,1059.15,EUR,Verified,SYN-DOC-00094
+TXN-2026-0095,INV-1662,MK-001,2026-06-29,Koboko Agro Inputs (synthetic),Nursery materials — potting bags and substrate,Nursery Operations,26444000.0,UGX,Verified,SYN-DOC-00095
+TXN-2026-0096,INV-1670,MK-001,2026-06-29,Yumbe Hardware Supplies (synthetic),Safety equipment and first aid,Other Project Costs,10962000.0,UGX,Verified,SYN-DOC-00096
+TXN-2026-0097,INV-1674,MK-001,2026-06-30,Field Crew Payroll — Site Office (synthetic),Casual labour — seasonal peak,Personnel and Labour,50465000.0,UGX,Verified,SYN-DOC-00097
+TXN-2026-0098,INV-1680,MK-001,2026-07-02,Yumbe Hardware Supplies (synthetic),Plantation equipment — hand tools,Equipment and Machinery,21617000.0,UGX,Verified,SYN-DOC-00098
+TXN-2026-0099,INV-1688,MK-001,2026-07-02,Contract Planting Team A (synthetic),Firebreak construction,Land Preparation,74651000.0,UGX,Verified,SYN-DOC-00099
+TXN-2026-0100,INV-1695,MK-001,2026-07-03,Kei Highlands Nurseries Ltd (synthetic),Nursery attendants' monthly allowance,Nursery Operations,22108000.0,UGX,Verified,SYN-DOC-00100
+TXN-2026-0101,INV-1701,MK-001,2026-07-04,Riverline Field Lodge (synthetic),Communications and internet,Administration,23886000.0,UGX,Verified,SYN-DOC-00101
+TXN-2026-0102,INV-1707,MK-001,2026-07-04,GreenRoots Survey & Mapping (synthetic),Remote-sensing imagery and mapping,Monitoring and Verification,905.49,EUR,Verified,SYN-DOC-00102
+TXN-2026-0103,INV-1714,MK-001,2026-07-06,Yumbe Hardware Supplies (synthetic),Plantation equipment — hand tools,Equipment and Machinery,13372000.0,UGX,Verified,SYN-DOC-00103
+TXN-2026-0104,INV-1724,MK-001,2026-07-06,Contract Planting Team A (synthetic),Planting labour — rainy season campaign,Plantation and Restoration,80128000.0,UGX,Verified,SYN-DOC-00104
+TXN-2026-0105,INV-1729,MK-001,2026-07-08,Kei Highlands Nurseries Ltd (synthetic),Native species seedlings for assisted natural regeneration,Seedling Procurement,5875000.0,UGX,Verified,SYN-DOC-00105
+TXN-2026-0106,INV-1740,MK-001,2026-07-09,Yumbe Hardware Supplies (synthetic),Miscellaneous site consumables,Other Project Costs,10175000.0,UGX,Verified,SYN-DOC-00106
+TXN-2026-0107,INV-1742,MK-001,2026-07-10,Terra Carbon Advisory (synthetic),Biomass plot measurement,Monitoring and Verification,1077.71,EUR,Verified,SYN-DOC-00107
+TXN-2026-0108,INV-1750,MK-001,2026-07-10,Riverline Field Lodge (synthetic),Field staff overtime and allowances,Personnel and Labour,17137000.0,UGX,Verified,SYN-DOC-00108
+TXN-2026-0109,INV-1758,MK-001,2026-07-11,West Nile Seed & Seedling Co. (synthetic),Native species seedlings for assisted natural regeneration,Seedling Procurement,68689000.0,UGX,Verified,SYN-DOC-00109
+TXN-2026-0110,INV-1766,MK-001,2026-07-12,Community Liaison Programme Fund (synthetic),Community liaison officer stipends,Community Development,8146000.0,UGX,Verified,SYN-DOC-00110
+TXN-2026-0111,INV-1771,MK-001,2026-07-12,Kei Highlands Nurseries Ltd (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,32204000.0,UGX,Verified,SYN-DOC-00111
+TXN-2026-0112,INV-1778,MK-001,2026-07-13,Riverline Field Lodge (synthetic),Site supervisor salaries,Personnel and Labour,43986000.0,UGX,Verified,SYN-DOC-00112
+TXN-2026-0113,INV-1785,MK-001,2026-07-13,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,22190000.0,UGX,Queried,SYN-DOC-00113
+TXN-2026-0114,INV-1793,MK-001,2026-07-16,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,6698000.0,UGX,Verified,SYN-DOC-00114
+TXN-2026-0115,INV-1800,MK-001,2026-07-17,Kei Highlands Nurseries Ltd (synthetic),Nursery materials — potting bags and substrate,Nursery Operations,51013000.0,UGX,Verified,SYN-DOC-00115
+TXN-2026-0116,INV-1805,MK-001,2026-07-18,Riverline Field Lodge (synthetic),Site supervisor salaries,Personnel and Labour,99390000.0,UGX,Verified,SYN-DOC-00116
+TXN-2026-0117,INV-1813,MK-001,2026-07-20,Koboko Agro Inputs (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,92590000.0,UGX,Verified,SYN-DOC-00117
+TXN-2026-0118,INV-1821,MK-001,2026-07-21,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,1614000.0,UGX,Verified,SYN-DOC-00118
+TXN-2026-0119,INV-1831,MK-001,2026-07-22,Terra Carbon Advisory (synthetic),Carbon project documentation support,Monitoring and Verification,1270.5,EUR,Verified,SYN-DOC-00119
+TXN-2026-0120,INV-1834,MK-001,2026-07-23,Community Liaison Programme Fund (synthetic),Farmer training session — sustainable agriculture,Community Development,15654000.0,UGX,Verified,SYN-DOC-00120
+TXN-2026-0121,INV-1842,MK-001,2026-07-24,East Africa Plant Hire (synthetic),Plantation equipment — hand tools,Equipment and Machinery,1541.22,EUR,Verified,
+TXN-2026-0122,INV-1849,MK-001,2026-07-25,Riverline Field Lodge (synthetic),Bank charges and professional fees,Administration,13119000.0,UGX,Verified,SYN-DOC-00122
+TXN-2026-0123,INV-1857,MK-001,2026-07-25,East Africa Plant Hire (synthetic),Firebreak construction,Land Preparation,7539.45,EUR,Verified,SYN-DOC-00123
+TXN-2026-0124,INV-1865,MK-001,2026-07-25,GreenRoots Survey & Mapping (synthetic),Remote-sensing imagery and mapping,Monitoring and Verification,850.55,EUR,Verified,SYN-DOC-00124
+TXN-2026-0125,INV-1869,MK-001,2026-07-26,Riverline Field Lodge (synthetic),Field crew wages,Personnel and Labour,33519000.0,UGX,Verified,SYN-DOC-00125
+TXN-2026-0126,INV-1875,MK-001,2026-07-26,Contract Planting Team A (synthetic),Planting labour — rainy season campaign,Plantation and Restoration,12725000.0,UGX,Verified,SYN-DOC-00126
+TXN-2026-0127,INV-1887,MK-001,2026-07-28,Nile Basin Logistics Ltd (synthetic),Truck hire for materials,Transport and Logistics,12352.33,EUR,Verified,SYN-DOC-00127
+TXN-2026-0128,INV-1892,MK-001,2026-07-29,Koboko Agro Inputs (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,25036000.0,UGX,Verified,SYN-DOC-00128
+TXN-2026-0129,INV-1897,MK-001,2026-07-30,Riverline Field Lodge (synthetic),Communications and internet,Administration,1196000.0,UGX,Verified,SYN-DOC-00129
+TXN-2026-0130,INV-1907,MK-001,2026-08-01,Kampala Office Services (synthetic),Field accommodation,Administration,1253.19,EUR,Verified,SYN-DOC-00130
+TXN-2026-0131,INV-1912,MK-001,2026-08-01,GreenRoots Survey & Mapping (synthetic),Remote-sensing imagery and mapping,Monitoring and Verification,1088.81,EUR,Verified,SYN-DOC-00131
+TXN-2026-0132,INV-1920,MK-001,2026-08-01,Koboko Agro Inputs (synthetic),Nursery shade netting replacement,Nursery Operations,26812000.0,UGX,Verified,SYN-DOC-00132
+TXN-2026-0133,INV-1928,MK-001,2026-08-02,GreenRoots Survey & Mapping (synthetic),Carbon project documentation support,Monitoring and Verification,923.33,EUR,Verified,SYN-DOC-00133
+TXN-2026-0134,INV-1935,MK-001,2026-08-02,Kei Highlands Nurseries Ltd (synthetic),Nursery attendants' monthly allowance,Nursery Operations,38492000.0,UGX,Verified,SYN-DOC-00134
+TXN-2026-0135,INV-1940,MK-001,2026-08-03,Terra Carbon Advisory (synthetic),Biomass plot measurement,Monitoring and Verification,1123.15,EUR,Verified,SYN-DOC-00135
+TXN-2026-0136,INV-1949,MK-001,2026-08-04,Yumbe Hardware Supplies (synthetic),Plantation equipment — hand tools,Equipment and Machinery,12642000.0,UGX,Verified,SYN-DOC-00136
+TXN-2026-0137,INV-1954,MK-001,2026-08-04,Field Crew Payroll — Site Office (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,129806000.0,UGX,Verified,SYN-DOC-00137
+TXN-2026-0138,INV-1964,MK-001,2026-08-06,Yumbe Hardware Supplies (synthetic),Safety equipment and first aid,Other Project Costs,9669000.0,UGX,Verified,SYN-DOC-00138
+TXN-2026-0139,INV-1971,MK-001,2026-08-06,Riverline Field Lodge (synthetic),Field staff overtime and allowances,Personnel and Labour,64899000.0,UGX,Verified,SYN-DOC-00139
+TXN-2026-0140,INV-1978,MK-001,2026-08-07,Kei Highlands Nurseries Ltd (synthetic),Native species seedlings for assisted natural regeneration,Seedling Procurement,3510000.0,UGX,Verified,SYN-DOC-00140
+TXN-2026-0141,INV-1985,MK-001,2026-08-08,Community Liaison Programme Fund (synthetic),Community liaison officer stipends,Community Development,5819000.0,UGX,Verified,SYN-DOC-00141
+TXN-2026-0142,INV-1988,MK-001,2026-08-08,Northern Fuel Depot (synthetic),Truck hire for materials,Transport and Logistics,8280000.0,UGX,Verified,SYN-DOC-00142
+TXN-2026-0143,INV-1997,MK-001,2026-08-09,Kampala Office Services (synthetic),Bank charges and professional fees,Administration,5428.75,EUR,Verified,SYN-DOC-00143
+TXN-2026-0144,INV-2005,MK-001,2026-08-09,Contract Planting Team A (synthetic),Ripping and site preparation (hired tractor),Land Preparation,21728000.0,UGX,Verified,SYN-DOC-00144
+TXN-2026-0145,INV-2013,MK-001,2026-08-12,Kei Highlands Nurseries Ltd (synthetic),Teak seedlings — plantation block order,Seedling Procurement,53027000.0,UGX,Verified,SYN-DOC-00145
+TXN-2026-0146,INV-2017,MK-001,2026-08-13,Riverline Field Lodge (synthetic),Field accommodation,Administration,3848000.0,UGX,Verified,SYN-DOC-00146
+TXN-2026-0147,INV-2026,MK-001,2026-08-13,Field Crew Payroll — Site Office (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,44817000.0,UGX,Verified,SYN-DOC-00147
+TXN-2026-0148,INV-2029,MK-001,2026-08-16,Field Crew Payroll — Site Office (synthetic),Ripping and site preparation (hired tractor),Land Preparation,14902000.0,UGX,Verified,SYN-DOC-00148
+TXN-2026-0149,INV-2040,MK-001,2026-08-19,Community Liaison Programme Fund (synthetic),Intercropping inputs for farmer groups,Community Development,15197000.0,UGX,Verified,SYN-DOC-00149
+TXN-2026-0150,INV-2044,MK-001,2026-08-19,East Africa Plant Hire (synthetic),Emergency replacement of borehole pump and site generator (unplanned),Equipment and Machinery,24500.0,EUR,Verified,SYN-DOC-00150
+TXN-2026-0151,INV-2050,MK-001,2026-08-20,Nile Basin Logistics Ltd (synthetic),Truck hire for materials,Transport and Logistics,4632.37,EUR,Verified,SYN-DOC-00151
+TXN-2026-0152,INV-2059,MK-001,2026-08-21,Yumbe Hardware Supplies (synthetic),Plantation equipment — hand tools,Equipment and Machinery,15236000.0,UGX,Verified,SYN-DOC-00152
+TXN-2026-0153,INV-2067,MK-001,2026-08-22,Riverline Field Lodge (synthetic),Field crew wages,Personnel and Labour,110870000.0,UGX,Verified,SYN-DOC-00153
+TXN-2026-0154,INV-2074,MK-001,2026-08-23,Community Liaison Programme Fund (synthetic),Farmer training session — sustainable agriculture,Community Development,16708000.0,UGX,Verified,SYN-DOC-00154
+TXN-2026-0155,INV-2083,MK-001,2026-08-24,Northern Fuel Depot (synthetic),Equipment hire — water bowser,Equipment and Machinery,10460000.0,UGX,Verified,SYN-DOC-00155
+TXN-2026-0156,INV-2088,MK-001,2026-08-24,GreenRoots Survey & Mapping (synthetic),Remote-sensing imagery and mapping,Monitoring and Verification,688.98,EUR,Verified,SYN-DOC-00156
+TXN-2026-0157,INV-2093,MK-001,2026-08-25,Contract Planting Team A (synthetic),Ripping and site preparation (hired tractor),Land Preparation,20808000.0,UGX,Verified,SYN-DOC-00157
+TXN-2026-0158,INV-2100,MK-001,2026-08-26,Field Crew Payroll — Site Office (synthetic),Field staff overtime and allowances,Personnel and Labour,38413000.0,UGX,Verified,SYN-DOC-00158
+TXN-2026-0159,INV-2109,MK-001,2026-08-26,Kei Highlands Nurseries Ltd (synthetic),Native species seedlings for assisted natural regeneration,Seedling Procurement,19778000.0,UGX,Verified,SYN-DOC-00159
+TXN-2026-0160,INV-2114,MK-001,2026-08-27,Northern Fuel Depot (synthetic),Brush cutters and spares,Equipment and Machinery,6329000.0,UGX,Queried,SYN-DOC-00160
+TXN-2026-0161,INV-2125,MK-001,2026-08-28,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,45191000.0,UGX,Verified,SYN-DOC-00161
+TXN-2026-0162,INV-2128,MK-001,2026-08-29,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,6135000.0,UGX,Verified,SYN-DOC-00162
+TXN-2026-0163,INV-2136,MK-001,2026-08-30,Kampala Office Services (synthetic),Office rent and utilities,Administration,1021.78,EUR,Verified,SYN-DOC-00163
+TXN-2026-0164,INV-2142,MK-001,2026-08-30,Field Crew Payroll — Site Office (synthetic),Labour for land preparation — clearing and pitting,Land Preparation,19537000.0,UGX,Verified,SYN-DOC-00164
+TXN-2026-0165,INV-2148,MK-001,2026-09-01,Contract Planting Team A (synthetic),Ripping and site preparation (hired tractor),Land Preparation,21642000.0,UGX,Verified,SYN-DOC-00165
+TXN-2026-0166,INV-2155,MK-001,2026-09-01,Terra Carbon Advisory (synthetic),Biomass plot measurement,Monitoring and Verification,2076.0,EUR,Verified,SYN-DOC-00166
+TXN-2026-0167,INV-2164,MK-001,2026-09-02,Yumbe Hardware Supplies (synthetic),Nursery attendants' monthly allowance,Nursery Operations,9974000.0,UGX,Verified,SYN-DOC-00167
+TXN-2026-0168,INV-2172,MK-001,2026-09-02,Field Crew Payroll — Site Office (synthetic),Site supervisor salaries,Personnel and Labour,52584000.0,UGX,Verified,SYN-DOC-00168
+TXN-2026-0169,INV-2178,MK-001,2026-09-02,Field Crew Payroll — Site Office (synthetic),Fertiliser and planting inputs,Plantation and Restoration,81943000.0,UGX,Verified,SYN-DOC-00169
+TXN-2026-0170,INV-2188,MK-001,2026-09-03,East Africa Plant Hire (synthetic),Plantation equipment — hand tools,Equipment and Machinery,4622.67,EUR,Verified,SYN-DOC-00170
+TXN-2026-0171,INV-2193,MK-001,2026-09-05,Terra Carbon Advisory (synthetic),Biomass plot measurement,Monitoring and Verification,1232.69,EUR,Pending Review,SYN-DOC-00171
+TXN-2026-0172,INV-2201,MK-001,2026-09-05,Kei Highlands Nurseries Ltd (synthetic),Seedling top-up order for replanting,Seedling Procurement,20901000.0,UGX,Verified,SYN-DOC-00172
+TXN-2026-0173,INV-2207,MK-001,2026-09-06,Field Crew Payroll — Site Office (synthetic),Boundary marking and pegging,Land Preparation,5475000.0,UGX,Verified,SYN-DOC-00173
+TXN-2026-0174,INV-2211,MK-001,2026-09-07,Koboko Agro Inputs (synthetic),Nursery irrigation consumables,Nursery Operations,16020000.0,UGX,Pending Review,SYN-DOC-00174
+TXN-2026-0175,INV-2223,MK-001,2026-09-08,Community Liaison Programme Fund (synthetic),Intercropping inputs for farmer groups,Community Development,19236000.0,UGX,Pending Review,SYN-DOC-00175
+TXN-2026-0176,INV-2228,MK-001,2026-09-09,West Nile Seed & Seedling Co. (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,5460000.0,UGX,Pending Review,SYN-DOC-00176
+TXN-2026-0177,INV-2235,MK-001,2026-09-10,Riverline Field Lodge (synthetic),Office rent and utilities,Administration,11729000.0,UGX,Verified,SYN-DOC-00177
+TXN-2026-0178,INV-2241,MK-001,2026-09-13,Riverline Field Lodge (synthetic),Communications and internet,Administration,3849000.0,UGX,Pending Review,SYN-DOC-00178
+TXN-2026-0179,INV-2249,MK-001,2026-09-13,Field Crew Payroll — Site Office (synthetic),Site supervisor salaries,Personnel and Labour,27964000.0,UGX,Verified,SYN-DOC-00179
+TXN-2026-0180,INV-2255,MK-001,2026-09-14,Kampala Office Services (synthetic),Bank charges and professional fees,Administration,2442.63,EUR,Verified,SYN-DOC-00180
+TXN-2026-0181,INV-2264,MK-001,2026-09-15,East Africa Plant Hire (synthetic),Boundary marking and pegging,Land Preparation,6121.43,EUR,Verified,SYN-DOC-00181
+TXN-2026-0182,INV-2271,MK-001,2026-09-15,GreenRoots Survey & Mapping (synthetic),Monitoring activities — survival counts,Monitoring and Verification,1726.17,EUR,Verified,SYN-DOC-00182
+TXN-2026-0183,INV-2279,MK-001,2026-09-15,Kei Highlands Nurseries Ltd (synthetic),Nursery attendants' monthly allowance,Nursery Operations,16211000.0,UGX,Verified,SYN-DOC-00183
+TXN-2026-0184,INV-2284,MK-001,2026-09-15,Field Crew Payroll — Site Office (synthetic),Field crew wages,Personnel and Labour,85505000.0,UGX,Verified,SYN-DOC-00184
+TXN-2026-0185,INV-2292,MK-001,2026-09-16,Kampala Office Services (synthetic),Field accommodation,Administration,2572.33,EUR,Verified,SYN-DOC-00185
+TXN-2026-0186,INV-2295,MK-001,2026-09-16,Yumbe Hardware Supplies (synthetic),Permits and local fees,Other Project Costs,10940000.0,UGX,Verified,SYN-DOC-00186
+TXN-2026-0187,INV-2307,MK-001,2026-09-18,Community Liaison Programme Fund (synthetic),Intercropping inputs for farmer groups,Community Development,17663000.0,UGX,Verified,SYN-DOC-00187
+TXN-2026-0188,INV-2314,MK-001,2026-09-18,Kei Highlands Nurseries Ltd (synthetic),Seedling top-up order for replanting,Seedling Procurement,8745000.0,UGX,Verified,SYN-DOC-00188
+TXN-2026-0189,INV-2318,MK-001,2026-09-19,East Africa Plant Hire (synthetic),Brush cutters and spares,Equipment and Machinery,3414.06,EUR,Verified,SYN-DOC-00189
+TXN-2026-0190,INV-2323,MK-001,2026-09-19,Field Crew Payroll — Site Office (synthetic),Boundary marking and pegging,Land Preparation,14524000.0,UGX,Pending Review,SYN-DOC-00190
+TXN-2026-0191,INV-2331,MK-001,2026-09-19,Arua Haulage Services (synthetic),Vehicle servicing and tyres,Transport and Logistics,47856000.0,UGX,Verified,SYN-DOC-00191
+TXN-2026-0192,INV-2337,MK-001,2026-09-20,Koboko Agro Inputs (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,62689000.0,UGX,Verified,SYN-DOC-00192
+TXN-2026-0193,INV-2345,MK-001,2026-09-21,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,12239000.0,UGX,Verified,SYN-DOC-00193
+TXN-2026-0232,INV-2331,MK-001,2026-09-22,Arua Haulage Services (synthetic),Vehicle servicing and tyres,Transport and Logistics,47856000.0,UGX,Pending Review,SYN-DOC-00232
+TXN-2026-0194,INV-2355,MK-001,2026-09-23,Field Crew Payroll — Site Office (synthetic),Casual labour — seasonal peak,Personnel and Labour,20522000.0,UGX,Pending Review,SYN-DOC-00194
+TXN-2026-0195,INV-2363,MK-001,2026-09-24,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,6737000.0,UGX,Verified,SYN-DOC-00195
+TXN-2026-0196,INV-2368,MK-001,2026-09-27,Kei Highlands Nurseries Ltd (synthetic),Nursery shade netting replacement,Nursery Operations,22223000.0,UGX,Verified,SYN-DOC-00196
+TXN-2026-0197,INV-2373,MK-001,2026-09-27,West Nile Seed & Seedling Co. (synthetic),Seedling top-up order for replanting,Seedling Procurement,28231000.0,UGX,Verified,SYN-DOC-00197
+TXN-2026-0198,INV-2379,MK-001,2026-09-30,Yumbe Hardware Supplies (synthetic),Equipment hire — water bowser,Equipment and Machinery,9563000.0,UGX,Verified,SYN-DOC-00198
+TXN-2026-0199,INV-2386,MK-001,2026-10-01,Kampala Office Services (synthetic),Bank charges and professional fees,Administration,3439.8,EUR,Verified,SYN-DOC-00199
+TXN-2026-0200,INV-2395,MK-001,2026-10-01,Field Crew Payroll — Site Office (synthetic),Fertiliser and planting inputs,Plantation and Restoration,93760000.0,UGX,Pending Review,SYN-DOC-00200
+TXN-2026-0201,INV-2400,MK-001,2026-10-01,West Nile Seed & Seedling Co. (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,22342000.0,UGX,Pending Review,SYN-DOC-00201
+TXN-2026-0202,INV-2411,MK-001,2026-10-02,Community Liaison Programme Fund (synthetic),Intercropping inputs for farmer groups,Community Development,29439000.0,UGX,Pending Review,SYN-DOC-00202
+TXN-2026-0203,INV-2419,MK-001,2026-10-03,Yumbe Hardware Supplies (synthetic),Safety equipment and first aid,Other Project Costs,2022000.0,UGX,Verified,SYN-DOC-00203
+TXN-2026-0204,INV-2426,MK-001,2026-10-04,Yumbe Hardware Supplies (synthetic),Nursery materials — potting bags and substrate,Nursery Operations,7735000.0,UGX,Pending Review,SYN-DOC-00204
+TXN-2026-0205,INV-2432,MK-001,2026-10-04,Yumbe Hardware Supplies (synthetic),Permits and local fees,Other Project Costs,2807000.0,UGX,Verified,SYN-DOC-00205
+TXN-2026-0206,INV-2437,MK-001,2026-10-04,West Nile Seed & Seedling Co. (synthetic),Procurement of indigenous tree seedlings,Seedling Procurement,15703000.0,UGX,Pending Review,SYN-DOC-00206
+TXN-2026-0207,INV-2445,MK-001,2026-10-05,GreenRoots Survey & Mapping (synthetic),Carbon project documentation support,Monitoring and Verification,3765.56,EUR,Verified,SYN-DOC-00207
+TXN-2026-0208,INV-2454,MK-001,2026-10-07,Riverline Field Lodge (synthetic),Field accommodation,Administration,8440000.0,UGX,Verified,SYN-DOC-00208
+TXN-2026-0209,INV-2459,MK-001,2026-10-07,Kampala Office Services (synthetic),Office rent and utilities,Administration,1740.33,EUR,Pending Review,SYN-DOC-00209
+TXN-2026-0210,INV-2465,MK-001,2026-10-07,Yumbe Hardware Supplies (synthetic),Nursery materials — potting bags and substrate,Nursery Operations,12538000.0,UGX,Pending Review,SYN-DOC-00210
+TXN-2026-0211,INV-2472,MK-001,2026-10-07,Northern Fuel Depot (synthetic),Vehicle servicing and tyres,Transport and Logistics,3923000.0,UGX,Pending Review,SYN-DOC-00211
+TXN-2026-0212,INV-2477,MK-001,2026-10-08,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,7202000.0,UGX,Pending Review,SYN-DOC-00212
+TXN-2026-0213,INV-2489,MK-001,2026-10-08,Yumbe Hardware Supplies (synthetic),Water pump maintenance,Equipment and Machinery,3758000.0,UGX,Pending Review,SYN-DOC-00213
+TXN-2026-0214,INV-2492,MK-001,2026-10-09,West Nile Seed & Seedling Co. (synthetic),Seedling top-up order for replanting,Seedling Procurement,6564000.0,UGX,Verified,SYN-DOC-00214
+TXN-2026-0215,INV-2502,MK-001,2026-10-10,Yumbe Hardware Supplies (synthetic),Safety equipment and first aid,Other Project Costs,1191000.0,UGX,Verified,SYN-DOC-00215
+TXN-2026-0216,INV-2505,MK-001,2026-10-12,Community Liaison Programme Fund (synthetic),Community sensitisation meetings,Community Development,5513000.0,UGX,Pending Review,SYN-DOC-00216
+TXN-2026-0217,INV-2512,MK-001,2026-10-12,Yumbe Hardware Supplies (synthetic),Plantation equipment — hand tools,Equipment and Machinery,6545000.0,UGX,Verified,SYN-DOC-00217
+TXN-2026-0218,INV-2522,MK-001,2026-10-12,Contract Planting Team A (synthetic),Enrichment planting in degraded areas,Plantation and Restoration,34883000.0,UGX,Pending Review,SYN-DOC-00218
+TXN-2026-0219,INV-2527,MK-001,2026-10-13,Northern Fuel Depot (synthetic),Water pump maintenance,Equipment and Machinery,32370000.0,UGX,Pending Review,SYN-DOC-00219
+TXN-2026-0233,INV-RCPT-0417,MK-001,2026-10-14,Yumbe Hardware Supplies (synthetic),Miscellaneous field purchases — receipt bundle,Uncategorised,7585000.0,UGX,Pending Review,SYN-DOC-00233
+TXN-2026-0220,INV-2537,MK-001,2026-10-15,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,60844000.0,UGX,Pending Review,SYN-DOC-00220
+TXN-2026-0221,INV-2545,MK-001,2026-10-16,Kampala Office Services (synthetic),Field accommodation,Administration,2055.11,EUR,Verified,SYN-DOC-00221
+TXN-2026-0222,INV-2552,MK-001,2026-10-16,Riverline Field Lodge (synthetic),Field staff overtime and allowances,Personnel and Labour,128633000.0,UGX,Verified,SYN-DOC-00222
+TXN-2026-0223,INV-2555,MK-001,2026-10-21,Yumbe Hardware Supplies (synthetic),Nursery materials — potting bags and substrate,Nursery Operations,40772000.0,UGX,Verified,SYN-DOC-00223
+TXN-2026-0224,INV-2561,MK-001,2026-10-24,Contract Planting Team A (synthetic),Firebreak construction,Land Preparation,21084000.0,UGX,Verified,SYN-DOC-00224
+TXN-2026-0225,INV-2573,MK-001,2026-10-24,GreenRoots Survey & Mapping (synthetic),Biomass plot measurement,Monitoring and Verification,1343.51,EUR,Verified,SYN-DOC-00225
+TXN-2026-0226,INV-2579,MK-001,2026-10-25,Yumbe Hardware Supplies (synthetic),Safety equipment and first aid,Other Project Costs,6479000.0,UGX,Verified,SYN-DOC-00226
+TXN-2026-0227,INV-2583,MK-001,2026-10-26,East Africa Plant Hire (synthetic),Ripping and site preparation (hired tractor),Land Preparation,8715.63,EUR,Verified,SYN-DOC-00227
+TXN-2026-0228,INV-2594,MK-001,2026-10-27,Field Crew Payroll — Site Office (synthetic),Casual labour — seasonal peak,Personnel and Labour,64659000.0,UGX,Pending Review,SYN-DOC-00228
+TXN-2026-0229,INV-2596,MK-001,2026-10-29,Yumbe Hardware Supplies (synthetic),Brush cutters and spares,Equipment and Machinery,3025000.0,UGX,Verified,SYN-DOC-00229
+TXN-2026-0230,INV-2603,MK-001,2026-10-29,Terra Carbon Advisory (synthetic),Carbon project documentation support,Monitoring and Verification,815.21,EUR,Pending Review,SYN-DOC-00230
+TXN-2026-0231,INV-2610,MK-001,2026-10-29,GreenRoots Survey & Mapping (synthetic),Monitoring activities — survival counts,Monitoring and Verification,1388.17,EUR,Verified,SYN-DOC-00231

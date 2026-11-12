@@ -1,0 +1,6 @@
+project_id,category,forecast_period,forecast_amount,currency,assumption
+MK-001,Transport and Logistics,2026-11,12600,EUR,Revised Nov-26: fuel +20% vs budget per site manager update (illustrative).
+MK-001,Transport and Logistics,2026-12,12600,EUR,Revised Nov-26: fuel +20% vs budget per site manager update (illustrative).
+MK-001,Transport and Logistics,2027-01,14400,EUR,Revised Nov-26: fuel +20% vs budget per site manager update (illustrative).
+MK-001,Transport and Logistics,2027-02,14400,EUR,Revised Nov-26: fuel +20% vs budget per site manager update (illustrative).
+MK-001,Transport and Logistics,2027-03,12600,EUR,Revised Nov-26: fuel +20% vs budget per site manager update (illustrative).

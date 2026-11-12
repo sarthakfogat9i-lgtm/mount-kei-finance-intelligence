@@ -1,0 +1,18 @@
+project_id,supplier,description,category,currency,status,transaction_id,invoice_id,transaction_date,amount,document_reference,test_note
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E001,INV-8001,2026-10-20,4100000,SYN-DOC-E001,valid row
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E002,INV-8002,2026-10-21,2050000,SYN-DOC-E002,duplicate ID within file (1/2)
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E002,INV-8003,2026-10-21,1230000,SYN-DOC-E003,duplicate ID within file (2/2)
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-0005,INV-8004,2026-10-22,820000,SYN-DOC-E004,ID already in database
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E005,INV-1028,2026-10-22,3075000,SYN-DOC-E005,invoice already in database
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E006,INV-8006,2026-13-05,615000,SYN-DOC-E006,invalid date
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E007,INV-8007,2026-10-23,four hundred,SYN-DOC-E007,non-numeric amount
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E008,INV-8008,2026-10-23,0,SYN-DOC-E008,zero amount
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Catering,UGX,Pending Review,TXN-2026-E009,INV-8009,2026-10-24,410000,SYN-DOC-E009,unrecognised category
+MK-001,,Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E010,INV-8010,2026-10-24,287000,SYN-DOC-E010,missing supplier
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,XYZ,Pending Review,TXN-2026-E011,INV-8011,2026-10-25,1000,SYN-DOC-E011,unknown currency
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Approved,TXN-2026-E012,INV-8012,2026-10-25,512500,SYN-DOC-E012,unrecognised status
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E013,CN-8013,2026-10-26,-205000,SYN-DOC-E013,negative amount (warning: credit note?)
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,,UGX,Pending Review,TXN-2026-E014,INV-8014,2026-10-26,369000,SYN-DOC-E014,blank category (warning: imported as Uncategorised)
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E015,INV-8015,2026-10-27,451000,,missing document reference (warning)
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E016,INV-8016,2025-12-15,328000,SYN-DOC-E016,date outside budget phase (warning)
+MK-001,Arua Haulage Services (synthetic),Truck hire for materials,Transport and Logistics,UGX,Pending Review,TXN-2026-E017,,2026-10-27,164000,SYN-DOC-E017,missing invoice ID (warning)

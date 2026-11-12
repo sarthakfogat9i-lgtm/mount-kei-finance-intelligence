@@ -1,0 +1,94 @@
+# Mount Kei Finance Intelligence — application configuration
+# ---------------------------------------------------------------
+# Everything a finance user may reasonably want to change without touching
+# Python code lives here: categories, thresholds, FX rates, scenarios.
+# All financial figures produced by this application are ILLUSTRATIVE.
+
+app:
+  name: "Mount Kei Finance Intelligence"
+  subtitle: "Financial Monitoring & Project Reporting"
+  version: "0.3.0"
+  illustrative_label: "Illustrative financial data — not actual Hummingbirds financial information."
+
+paths:
+  database: "data/database/mount_kei_finance.db"
+  sample_dir: "data/sample"
+  templates_dir: "data/templates"
+
+# The project populated in this first build. Additional projects can be added
+# to the `projects` table; see docs/ARCHITECTURE.md §11.
+default_project_id: "MK-001"
+
+# Reporting (base) currency. Amounts in other currencies are converted with the
+# rates below BEFORE any aggregation. Never add amounts in different currencies.
+base_currency: "EUR"
+
+# Illustrative fixed planning rates: units of foreign currency per 1 unit of base
+# currency. These are NOT market rates and NOT Hummingbirds treasury rates.
+# A currency without a rate here is rejected at upload (validation error).
+fx_rates:
+  EUR: 1.0
+  UGX: 4100.0     # illustrative planning rate, 1 EUR = 4,100 UGX
+  USD: 1.08       # illustrative planning rate, 1 EUR = 1.08 USD
+
+# Expense categories for the ILLUSTRATIVE model. These are proposed categories,
+# not confirmed Hummingbirds accounting categories.
+categories:
+  - "Seedling Procurement"
+  - "Nursery Operations"
+  - "Land Preparation"
+  - "Plantation and Restoration"
+  - "Personnel and Labour"
+  - "Transport and Logistics"
+  - "Equipment and Machinery"
+  - "Community Development"
+  - "Monitoring and Verification"
+  - "Administration"
+  - "Other Project Costs"
+
+# Label applied to transactions that arrive without a category. They are kept
+# (never discarded), counted in actual expenditure, and flagged for review.
+uncategorised_label: "Uncategorised"
+
+transaction_statuses:
+  - "Verified"
+  - "Pending Review"
+  - "Queried"
+
+# Transparent rules for the overall financial status indicator.
+# Evaluated in src/finance/budget_analysis.py::determine_financial_status
+status_rules:
+  # Forecast at completion vs approved budget (percent, positive = overspend)
+  overspend_forecast_variance_pct: 5.0   # above this -> Potential Overspend
+  watchlist_forecast_variance_pct: 0.0   # above this -> Watchlist
+  # Any single category forecast to exceed its budget by more than this -> Watchlist
+  watchlist_category_variance_pct: 10.0
+  # Spend to date vs budget phased to date (percent) above this -> Watchlist
+  watchlist_ytd_variance_pct: 5.0
+
+# Flags used by the transaction register and report.
+anomaly_rules:
+  # A transaction is "unusually large" if it exceeds this multiple of the
+  # median transaction amount in the same category (base currency).
+  large_vs_category_median_multiple: 4.0
+  # ... and is at least this large in absolute terms (avoids noise on tiny items)
+  large_min_amount: 5000.0
+
+# A category deviation is "significant" in the monthly report when BOTH tests pass.
+reporting:
+  significant_variance_pct: 10.0
+  significant_variance_abs: 10000.0
+
+# Forecast scenarios. Each scenario applies a transparent percentage
+# adjustment to the base-case forecast of REMAINING expenditure only.
+# Actual expenditure is never adjusted.
+scenarios:
+  Base case:
+    adjustment_pct: 0.0
+    description: "Forecast remaining expenditure as entered by the analyst (forecasts table; approved budget where no forecast exists)."
+  Optimistic:
+    adjustment_pct: -7.5
+    description: "Remaining costs 7.5% lower than base case (e.g. efficiency gains, lower fuel prices, fewer replanting needs)."
+  Pessimistic:
+    adjustment_pct: 12.5
+    description: "Remaining costs 12.5% higher than base case (e.g. fuel and input price inflation, delayed rains requiring replanting)."

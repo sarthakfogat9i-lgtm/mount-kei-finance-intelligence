@@ -1,0 +1,56 @@
+forecast_id,project_id,category,forecast_period,forecast_amount,currency,assumption,updated_at
+FC-2026-11-01,MK-001,Seedling Procurement,2026-11,10400.0,EUR,Remaining seedling orders as per approved phasing.,2026-11-05T09:00:00
+FC-2026-11-02,MK-001,Nursery Operations,2026-11,14700.0,EUR,Nursery running costs in line with approved phasing.,2026-11-05T09:00:00
+FC-2026-11-03,MK-001,Land Preparation,2026-11,16995.0,EUR,Labour day-rates observed Apr-Oct ~3% above budget assumed to persist.,2026-11-05T09:00:00
+FC-2026-11-04,MK-001,Plantation and Restoration,2026-11,19500.0,EUR,Dry-season maintenance programme per approved plan.,2026-11-05T09:00:00
+FC-2026-11-05,MK-001,Personnel and Labour,2026-11,43680.0,EUR,Casual labour headcount ~5% above plan expected to continue to March.,2026-11-05T09:00:00
+FC-2026-11-06,MK-001,Transport and Logistics,2026-11,12075.0,EUR,Fuel cost ~15% above budget assumption expected to persist (observed Apr-Oct).,2026-11-05T09:00:00
+FC-2026-11-07,MK-001,Equipment and Machinery,2026-11,10800.0,EUR,No further unplanned equipment replacement assumed.,2026-11-05T09:00:00
+FC-2026-11-08,MK-001,Community Development,2026-11,12000.0,EUR,Community programme continues per plan; Apr-Oct shortfall not caught up this year.,2026-11-05T09:00:00
+FC-2026-11-09,MK-001,Monitoring and Verification,2026-11,9025.0,EUR,Field survey contract agreed ~5% below budget.,2026-11-05T09:00:00
+FC-2026-11-10,MK-001,Administration,2026-11,9900.0,EUR,Office and overhead costs per approved phasing.,2026-11-05T09:00:00
+FC-2026-11-11,MK-001,Other Project Costs,2026-11,3150.0,EUR,Contingency items per approved phasing.,2026-11-05T09:00:00
+FC-2026-12-01,MK-001,Seedling Procurement,2026-12,15600.0,EUR,Remaining seedling orders as per approved phasing.,2026-11-05T09:00:00
+FC-2026-12-02,MK-001,Nursery Operations,2026-12,16800.0,EUR,Nursery running costs in line with approved phasing.,2026-11-05T09:00:00
+FC-2026-12-03,MK-001,Land Preparation,2026-12,27192.0,EUR,Labour day-rates observed Apr-Oct ~3% above budget assumed to persist.,2026-11-05T09:00:00
+FC-2026-12-04,MK-001,Plantation and Restoration,2026-12,15600.0,EUR,Dry-season maintenance programme per approved plan.,2026-11-05T09:00:00
+FC-2026-12-05,MK-001,Personnel and Labour,2026-12,43680.0,EUR,Casual labour headcount ~5% above plan expected to continue to March.,2026-11-05T09:00:00
+FC-2026-12-06,MK-001,Transport and Logistics,2026-12,12075.0,EUR,Fuel cost ~15% above budget assumption expected to persist (observed Apr-Oct).,2026-11-05T09:00:00
+FC-2026-12-07,MK-001,Equipment and Machinery,2026-12,14400.0,EUR,No further unplanned equipment replacement assumed.,2026-11-05T09:00:00
+FC-2026-12-08,MK-001,Community Development,2026-12,9600.0,EUR,Community programme continues per plan; Apr-Oct shortfall not caught up this year.,2026-11-05T09:00:00
+FC-2026-12-09,MK-001,Monitoring and Verification,2026-12,9025.0,EUR,Field survey contract agreed ~5% below budget.,2026-11-05T09:00:00
+FC-2026-12-10,MK-001,Administration,2026-12,8800.0,EUR,Office and overhead costs per approved phasing.,2026-11-05T09:00:00
+FC-2026-12-11,MK-001,Other Project Costs,2026-12,2800.0,EUR,Contingency items per approved phasing.,2026-11-05T09:00:00
+FC-2027-01-01,MK-001,Seedling Procurement,2027-01,20800.0,EUR,Remaining seedling orders as per approved phasing.,2026-11-05T09:00:00
+FC-2027-01-02,MK-001,Nursery Operations,2027-01,18900.0,EUR,Nursery running costs in line with approved phasing.,2026-11-05T09:00:00
+FC-2027-01-03,MK-001,Land Preparation,2027-01,30591.0,EUR,Labour day-rates observed Apr-Oct ~3% above budget assumed to persist.,2026-11-05T09:00:00
+FC-2027-01-04,MK-001,Plantation and Restoration,2027-01,15600.0,EUR,Dry-season maintenance programme per approved plan.,2026-11-05T09:00:00
+FC-2027-01-05,MK-001,Personnel and Labour,2027-01,43680.0,EUR,Casual labour headcount ~5% above plan expected to continue to March.,2026-11-05T09:00:00
+FC-2027-01-06,MK-001,Transport and Logistics,2027-01,13800.0,EUR,Fuel cost ~15% above budget assumption expected to persist (observed Apr-Oct).,2026-11-05T09:00:00
+FC-2027-01-07,MK-001,Equipment and Machinery,2027-01,14400.0,EUR,No further unplanned equipment replacement assumed.,2026-11-05T09:00:00
+FC-2027-01-08,MK-001,Community Development,2027-01,9600.0,EUR,Community programme continues per plan; Apr-Oct shortfall not caught up this year.,2026-11-05T09:00:00
+FC-2027-01-09,MK-001,Monitoring and Verification,2027-01,9025.0,EUR,Field survey contract agreed ~5% below budget.,2026-11-05T09:00:00
+FC-2027-01-10,MK-001,Administration,2027-01,8800.0,EUR,Office and overhead costs per approved phasing.,2026-11-05T09:00:00
+FC-2027-01-11,MK-001,Other Project Costs,2027-01,2800.0,EUR,Contingency items per approved phasing.,2026-11-05T09:00:00
+FC-2027-02-01,MK-001,Seedling Procurement,2027-02,20800.0,EUR,Remaining seedling orders as per approved phasing.,2026-11-05T09:00:00
+FC-2027-02-02,MK-001,Nursery Operations,2027-02,18900.0,EUR,Nursery running costs in line with approved phasing.,2026-11-05T09:00:00
+FC-2027-02-03,MK-001,Land Preparation,2027-02,30591.0,EUR,Labour day-rates observed Apr-Oct ~3% above budget assumed to persist.,2026-11-05T09:00:00
+FC-2027-02-04,MK-001,Plantation and Restoration,2027-02,19500.0,EUR,Dry-season maintenance programme per approved plan.,2026-11-05T09:00:00
+FC-2027-02-05,MK-001,Personnel and Labour,2027-02,43680.0,EUR,Casual labour headcount ~5% above plan expected to continue to March.,2026-11-05T09:00:00
+FC-2027-02-06,MK-001,Transport and Logistics,2027-02,13800.0,EUR,Fuel cost ~15% above budget assumption expected to persist (observed Apr-Oct).,2026-11-05T09:00:00
+FC-2027-02-07,MK-001,Equipment and Machinery,2027-02,14400.0,EUR,No further unplanned equipment replacement assumed.,2026-11-05T09:00:00
+FC-2027-02-08,MK-001,Community Development,2027-02,9600.0,EUR,Community programme continues per plan; Apr-Oct shortfall not caught up this year.,2026-11-05T09:00:00
+FC-2027-02-09,MK-001,Monitoring and Verification,2027-02,10830.0,EUR,Field survey contract agreed ~5% below budget.,2026-11-05T09:00:00
+FC-2027-02-10,MK-001,Administration,2027-02,9900.0,EUR,Office and overhead costs per approved phasing.,2026-11-05T09:00:00
+FC-2027-02-11,MK-001,Other Project Costs,2027-02,3150.0,EUR,Contingency items per approved phasing.,2026-11-05T09:00:00
+FC-2027-03-01,MK-001,Seedling Procurement,2027-03,15600.0,EUR,Remaining seedling orders as per approved phasing.,2026-11-05T09:00:00
+FC-2027-03-02,MK-001,Nursery Operations,2027-03,16800.0,EUR,Nursery running costs in line with approved phasing.,2026-11-05T09:00:00
+FC-2027-03-03,MK-001,Land Preparation,2027-03,27192.0,EUR,Labour day-rates observed Apr-Oct ~3% above budget assumed to persist.,2026-11-05T09:00:00
+FC-2027-03-04,MK-001,Plantation and Restoration,2027-03,19500.0,EUR,Dry-season maintenance programme per approved plan.,2026-11-05T09:00:00
+FC-2027-03-05,MK-001,Personnel and Labour,2027-03,43680.0,EUR,Casual labour headcount ~5% above plan expected to continue to March.,2026-11-05T09:00:00
+FC-2027-03-06,MK-001,Transport and Logistics,2027-03,12075.0,EUR,Fuel cost ~15% above budget assumption expected to persist (observed Apr-Oct).,2026-11-05T09:00:00
+FC-2027-03-07,MK-001,Equipment and Machinery,2027-03,14400.0,EUR,No further unplanned equipment replacement assumed.,2026-11-05T09:00:00
+FC-2027-03-08,MK-001,Community Development,2027-03,9600.0,EUR,Community programme continues per plan; Apr-Oct shortfall not caught up this year.,2026-11-05T09:00:00
+FC-2027-03-09,MK-001,Monitoring and Verification,2027-03,11732.5,EUR,Field survey contract agreed ~5% below budget.,2026-11-05T09:00:00
+FC-2027-03-10,MK-001,Administration,2027-03,9900.0,EUR,Office and overhead costs per approved phasing.,2026-11-05T09:00:00
+FC-2027-03-11,MK-001,Other Project Costs,2027-03,3150.0,EUR,Contingency items per approved phasing.,2026-11-05T09:00:00
