@@ -1,9 +1,10 @@
-# Pinned to the versions the app was built and tested with (Streamlit Community Cloud installs these).
+# Streamlit is pinned (the UI relies on 1.37 behaviour); the rest are ranges with wheels for Python 3.12 and 3.13.
+# Tested with numpy 1.26/2.5 and pandas 2.2/2.3. On Streamlit Community Cloud choose Python 3.12 or 3.13.
 streamlit==1.37.1
-pandas==2.2.2
-numpy==1.26.4
+pandas>=2.2.2,<3
+numpy>=1.26,<3
 plotly==5.24.1
-openpyxl==3.1.5
-PyYAML==6.0.1
-reportlab==4.4.1
-pytest==7.4.4
+openpyxl>=3.1.5,<4
+PyYAML>=6.0.1,<7
+reportlab>=4.2,<5
+pytest>=7.4
